@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespasd asd asd asd ace ToolRentals
+namespace ToolRentals
 {
     public partial class frmCustomer : Form
     {
